@@ -1,0 +1,220 @@
+nav {
+    width: 100%;
+    height: 80px;
+    background-color: grey;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+header {
+    width: 100%;
+    height: 600px;
+    background-color: lightgray;
+}
+
+header h3 {
+    font-style: italic;
+}
+
+footer {
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #2f2f2f;
+    color: white;
+    padding-top: 50px;
+}
+
+footer p{
+    font-style: italic;
+}
+
+h4 {
+    margin-top: 25px;
+}
+
+.logo {
+    float: left;
+    color: white;
+    padding-top: 14px;
+    font-size: 30px;
+}
+
+.nav-con {
+    float: right;
+    width: 500px;
+    height: 350px;
+    padding-top: 5px;
+    list-style: none;
+}
+
+.nav-con li{
+    float: left;
+    width: 100px;
+    height: 35px;
+    padding-top: 5px;
+    margin-top: 15px;
+    margin-right: 10px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: white;
+    color: #2f2f2f;
+}
+
+.heading {
+    float: left;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+.heading h3 {
+    font-style: italic;
+}
+
+.heading h1{
+    width: 600px;
+}
+
+.welcome {
+    width: 100%;
+    height: 100px;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.PicBox {
+    width: 550px;
+    height: 350px;
+    background-color: lightgray;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+.Introduction h3 {
+    font-style: italic;
+}
+
+.Introduction {
+    margin-top: 50px;
+}
+
+.CTAbutton {
+    float: left;
+    width: 200px;
+    height: 40px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 2px solid #2f2f2f;
+    color: #2f2f2f;
+    text-align: center;
+    background-color: white;
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+
+.CTAbutton:hover {
+    cursor: pointer;
+    background-color: #2f2f2f;
+    color: white;
+}
+
+.section-head {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.profile {
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.profile p {
+    margin-top: 15px;
+}
+
+.circlepic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: lightgrey;
+    margin: 0 auto;;
+}
+
+.button {
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 35px;
+    color: white;
+    background-color: #2f2f2f;
+    padding-top: 8px;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: #2f2f2f;
+    border: 2px solid #2f2f2f;
+    padding-top: 6px;
+}
+
+.nav-con li:hover {
+    background-color: #2f2f2f;
+    color: white;
+    cursor: pointer;
+
+}
+
+.active {
+    background-color: #2f2f2f !important;
+    color: white !important;
+}
+
+.SmallBox {
+    width: 100%;
+    height: 250px;
+    background-color: lightgray;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.button-group {
+    width: 160px;
+    height: 40px;
+    border-radius: 5px;
+    padding-left: 40px;
+    color: white;
+    background-color: #2f2f2f;
+    padding-top: 8px;
+}
+
+.button-group:hover {
+    background-color: white;
+    color: #2f2f2f;
+    border: 2px solid #2f2f2f;
+    padding-top: 6px;
+    cursor: pointer;
+}
+
+.Half{
+    text-align: left;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.half p{
+    text-align: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.half h3{
+    font-style: italic;
+    margin-top: 25px;
+}
