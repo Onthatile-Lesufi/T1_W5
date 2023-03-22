@@ -321,3 +321,17 @@ h4 {
     background-position: center;
     background-size: cover;
 }
+
+.social-media {
+    height: 40px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.social {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%; 
+    float: left;
+    margin-left: 10px;
+}
